@@ -1,6 +1,6 @@
-# aws-sqs-thead-examples
+# aws-sqs-thread-examples
 
-aws-sqs-thead-examples is an aws sdk java examples for [Aws Simple Queue Service](http://aws.amazon.com/sqs/)
+aws-sqs-thread-examples is an aws sdk java examples for [Aws Simple Queue Service](http://aws.amazon.com/sqs/)
 
 ## Provides
 
