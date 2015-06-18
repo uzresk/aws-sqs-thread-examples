@@ -20,8 +20,8 @@ aws-sqs-thread-examples is an aws sdk java examples for [Aws Simple Queue Servic
 
 ### Create Queue
 
-1.Create a queue named "MyQueue".
-2.To get the access key secret access key for accessing the AWS
+1.Create a queue named "MyQueue".  
+2.To get the access key secret access key for accessing the AWS  
 3.grant permissions to the queue using the IAM
 
 ### Create AwsCredentials.properties
